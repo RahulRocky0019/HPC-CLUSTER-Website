@@ -1,0 +1,27 @@
+Demo
+
+find HPC
+change state
+search
+sort by rank
+get into details
+turn pages
+get back
+go to home page
+
+Now sign up
+fill details
+Show details in database
+
+Now login
+add cluster
+Show details in database
+
+update cluster
+show updated cluster details
+
+manage account
+
+Logout
+
+show remaining pages
